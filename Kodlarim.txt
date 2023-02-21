@@ -1,2 +1,3 @@
 kod1
 version2 kodlarım
+v3 kısa yol... commit -am "v3"
